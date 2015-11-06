@@ -1,4 +1,4 @@
-# Penn-the-sheep
+# Pen-the-sheep
 
 We are just creating an android app just for fun.
 
